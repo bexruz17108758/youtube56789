@@ -1,0 +1,37 @@
+.nomer{
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 50px;
+    background-color: rgba(203, 203, 247, 0.642);margin: 10px;
+    margin: 10px;
+    color: rgb(13, 13, 76);
+}
+.nomer2{
+    color: brown;
+}
+.nomer3{
+    color: green;
+}
+.nomer4{
+    color: yellow;
+}
+.nomer5{
+    color: black;
+}
+.zzz{
+    text-align: center;
+    border: 5px solid yellow;
+    background-color: yellow;
+}
+.ooo{
+    text-align: center;
+    background-color: green;
+}
+.rrr{
+    text-align: center;
+    background-color: red;
+}
+   td{
+    text-align: center;
+    background-color: blueviolet;
+   }
